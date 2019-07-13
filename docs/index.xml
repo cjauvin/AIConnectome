@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Connectome</title>
-    <link>https://example.com/</link>
+    <link>https://rachels.github.io/AIConnectome/</link>
     <description>Recent content on AI Connectome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rachels.github.io/AIConnectome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What is human-centered AI?</title>
-      <link>https://example.com/blog/human-centered-ai/</link>
+      <link>https://rachels.github.io/AIConnectome/blog/human-centered-ai/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/human-centered-ai/</guid>
+      <guid>https://rachels.github.io/AIConnectome/blog/human-centered-ai/</guid>
       <description>Human-centered AI Note that this is a draft
 Human-centered artificial intelligence is an emerging field generally interested in understanding the impact of AI on society, protecting human rights and ensuring the development and use of AI for the betterment of humanity.
 How did we get there? AI technologies initially emerged from academic research centers, by scientists interested in using machines to solve mathematical problems and geometrical theorems [1]. Developing “humanoid” robots, beating Garry Kasparov at chess, xyz, were all early goals motivating the early research efforts in AI.</description>

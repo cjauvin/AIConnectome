@@ -3,77 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/br/categories/</loc>
+    <loc>https://rachels.github.io/AIConnectome/br/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/categories/"
+                href="https://rachels.github.io/AIConnectome/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/categories/"
+                href="https://rachels.github.io/AIConnectome/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/categories/"
+                href="https://rachels.github.io/AIConnectome/pl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/categories/"
+                href="https://rachels.github.io/AIConnectome/br/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/</loc>
+    <loc>https://rachels.github.io/AIConnectome/br/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/"
+                href="https://rachels.github.io/AIConnectome/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/"
+                href="https://rachels.github.io/AIConnectome/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/"
+                href="https://rachels.github.io/AIConnectome/pl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/"
+                href="https://rachels.github.io/AIConnectome/br/"
                 />
   </url>
   
   <url>
-    <loc>https://example.com/br/tags/</loc>
+    <loc>https://rachels.github.io/AIConnectome/br/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/tags/"
+                href="https://rachels.github.io/AIConnectome/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://example.com/fr/tags/"
+                href="https://rachels.github.io/AIConnectome/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://example.com/pl/tags/"
+                href="https://rachels.github.io/AIConnectome/pl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="br"
-                href="https://example.com/br/tags/"
+                href="https://rachels.github.io/AIConnectome/br/tags/"
                 />
   </url>
   

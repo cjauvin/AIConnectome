@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AI Connectome</title>
-    <link>https://example.com/categories/</link>
+    <link>https://rachels.github.io/AIConnectome/categories/</link>
     <description>Recent content in Categories on AI Connectome</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rachels.github.io/AIConnectome/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Human-centered AI</title>
-      <link>https://example.com/categories/human-centered-ai/</link>
+      <link>https://rachels.github.io/AIConnectome/categories/human-centered-ai/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/categories/human-centered-ai/</guid>
+      <guid>https://rachels.github.io/AIConnectome/categories/human-centered-ai/</guid>
       <description></description>
     </item>
     
