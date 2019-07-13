@@ -1,4 +1,4 @@
-baseurl                 = "https://rachels.github.io/AIConnectome/"
+baseurl                 = "https://rachels.github.io/AIConnectome"
 DefaultContentLanguage  = "en"
 title                   = "AI Connectome"
 theme                   = "hugo-future-imperfect-slim"
