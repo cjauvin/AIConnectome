@@ -9,6 +9,7 @@ googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = [""]
 publishDir              = "docs"
+# relativeURLs            = true
 
 [params]
   # Loads CSS and JavaScript files. The variable is an array so that you can load
@@ -108,31 +109,31 @@ publishDir              = "docs"
   # Identifier prepends a Font Awesome icon to the menu item
   [[menu.main]]
     name              = "Home"
-    url               = "/"
+    url               = ""
     identifier        = "fas fa-home"
     weight            = 1
 
   [[menu.main]]
     name              = "About"
-    url               = "/about/"
+    url               = "about/"
     identifier        = "far fa-id-card"
     weight            = 2
 
   [[menu.main]]
     name              = "Blog"
-    url               = "/blog/"
+    url               = "blog/"
     identifier        = "far fa-newspaper"
     weight            = 3
 
   [[menu.main]]
     name              = "Categories"
-    url               = "/categories/"
+    url               = "categories/"
     identifier        = "fas fa-sitemap"
     weight            = 5
 
   [[menu.main]]
     name              = "Contact"
-    url               = "/contact/"
+    url               = "contact/"
     identifier        = "far fa-envelope"
     weight            = 6
 
